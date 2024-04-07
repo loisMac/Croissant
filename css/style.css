@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(255, 237, 207) ;
+}
+
+p {
+    line-height: 22px;
+    margin: 40px 0;
+}
+
+a {
+    padding: 20px;
+    color: rgb(89, 172, 89);
+}
+
+.email {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    margin: 0 auto;
+    display: block;
+    max-width: 60%;
+    padding: 40px;
+    
+}
